@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sawHalf_move",
+    "texture": "3470d81e-4bd4-45d4-a972-09ea947ba90d",
+    "atlas": "",
+    "rect": [
+      8,
+      72,
+      112,
+      56
+    ],
+    "offset": [
+      0,
+      -36
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

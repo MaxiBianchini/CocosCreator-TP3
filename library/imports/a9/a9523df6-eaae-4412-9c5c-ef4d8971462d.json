@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "grassHalf_right",
+    "texture": "98ae2fd7-bf5d-4eb5-8c69-e4e514ab67f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      74
+    ],
+    "offset": [
+      0,
+      27
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

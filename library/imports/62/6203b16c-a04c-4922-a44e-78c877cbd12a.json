@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienBlue_jump",
+    "texture": "8ed8ef2c-a0cf-4058-a040-178552b29d38",
+    "atlas": "",
+    "rect": [
+      10,
+      103,
+      108,
+      153
+    ],
+    "offset": [
+      0,
+      -51.5
+    ],
+    "originalSize": [
+      128,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

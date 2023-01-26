@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slimeGreen",
+    "texture": "05bb743c-7ca8-47b2-88f9-0125e6d12070",
+    "atlas": "",
+    "rect": [
+      20,
+      66,
+      88,
+      62
+    ],
+    "offset": [
+      0,
+      -33
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

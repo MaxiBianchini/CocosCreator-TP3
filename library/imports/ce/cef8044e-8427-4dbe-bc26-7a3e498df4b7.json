@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flagBlue1",
+    "texture": "f3c56169-63ad-4117-b71e-3f9dc176c144",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      128
+    ],
+    "offset": [
+      -4.5,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

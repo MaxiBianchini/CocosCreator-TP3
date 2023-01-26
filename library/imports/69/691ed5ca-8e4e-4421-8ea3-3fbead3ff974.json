@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hudCoin",
+    "texture": "c2947427-c3c3-4fe6-93ed-328af0344b02",
+    "atlas": "",
+    "rect": [
+      22,
+      22,
+      86,
+      86
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

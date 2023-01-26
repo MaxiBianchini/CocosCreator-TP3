@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienBlue_stand",
+    "texture": "f9ed46dd-c599-4e25-8701-69dc6f5d893a",
+    "atlas": "",
+    "rect": [
+      11,
+      109,
+      107,
+      147
+    ],
+    "offset": [
+      0.5,
+      -54.5
+    ],
+    "originalSize": [
+      128,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
